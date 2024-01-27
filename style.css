@@ -1,0 +1,566 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+  
+
+
+   body {
+    background-color:#FAFAD2;
+    color: black;
+    font-family: Verdana;
+  }
+  
+                                                                      /*home*/
+  #crate {
+    position: relative; 
+    display: flex; 
+    height: 100vh;
+    width: 30vw;
+    margin: 0 auto;
+    
+  }
+  
+  .ridickyy {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    font-family: "mythos-std", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+  }
+  
+  .name {
+    position: relative;
+    text-align: center;
+    bottom: 5%;
+  }
+  
+  .intro {
+    position: relative;
+    text-align: center;
+  }
+  
+  .topnav {
+    position: relative;
+    font-size:17px;
+    text-align: center;
+  }
+  
+  .EJ {
+    position: absolute;
+    bottom: -10%;
+    left: 8%;
+    font-size: 12px;
+    text-align: center;
+  
+  }
+  
+  .JUNK {
+    position: absolute;
+    bottom: 1%;
+    left: 31%;
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  .LeviGus {
+    position: absolute;
+    bottom: -10%;
+    left: 64%;
+    font-size: 12px;
+    text-align: center;
+    
+  }
+  
+  .Tree {
+    position: absolute;
+    bottom: -60%;
+    left: 8%;
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  .Watercolor {
+    position: absolute;
+    bottom: -60%;
+    left: 35.5%;
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  .codypop {
+    position: absolute;
+    bottom: -67%;
+    left: 61%;
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  .cruisin {
+    position:absolute;
+    bottom: -130%;
+    left: 8%;
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  .carmela {
+    position: absolute;
+    bottom: -130%;
+    left: 61.5%;
+    font-size: 12px;
+    text-align: center;
+  }
+
+    
+                                                                      /*about*/
+  #about {
+    position: relative; 
+    display: flex; 
+    height: 100vh;
+    width: 30vw;
+    margin: 0 auto;
+  }
+  
+  .AboutHead {
+     position: relative;
+    text-align: center;
+    font-size: 30px;
+    font-family: "mythos-std", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  }
+  
+  .index {
+    position: relative;
+    font-size:17px;
+    text-align: center;
+  }
+  
+  .funnybear {
+    position: relative;
+    bottom: 10%;
+    font-size: 17px;
+    text-align: center;
+    
+  }
+  
+  
+                                                                    /*photo*/
+  
+  #photography {
+    position: relative; 
+    display: flex; 
+    height: 10vh;
+    width: 30vw;
+    margin: 0 auto;
+  }
+  
+  .header {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    font-family: "mythos-std", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .indexP {
+    position: absolute;
+    text-align: center;
+    font-size: 15px;
+    left: 55%;
+  }
+  
+  .write {
+    position: absolute;
+    font-size: 16px;
+    text-align: center;
+    width: 30vw;
+    left: 39%;
+  }
+  
+  #gallery {
+    position: absolute; 
+    display: flex; 
+    height: 100vh;
+    width: 100vw;
+    margin: 0 auto;
+  }
+  
+  .subway {
+    position: absolute;
+    font-size: 12px;
+    text-align: center;
+    left: 68.5%;
+    bottom: -35vh;
+  }
+  
+  .window {
+    position: absolute;
+    font-size: 12px;
+    text-align:center;
+    left: 32%;
+    bottom: 19vh;
+  }
+  
+  .teo {
+    position: absolute;
+    font-size: 12px;
+    text-align:center;
+    left: 35%;
+    bottom: -37vh;
+  }
+  
+  .swordz {
+    position: absolute;
+    font-size: 12px;
+    text-align:center;
+    bottom: -35vh;
+    left: 8.5%;
+  }
+  
+  .car {
+    position: absolute;
+    font-size: 12px;
+    text-align:center;
+    top: 38vh;
+    left: 67%;
+  }
+  
+  .diner {
+    position: absolute;
+    font-size: 12px;
+    text-align:center;
+    bottom: -1vh;
+    right: 65%;
+  }
+  
+  .lighter {
+    position: absolute;
+    font-size: 12px;
+    text-align:center;
+    bottom: -93vh;
+    left: 38%;
+  }
+  
+  .skee {
+    position: absolute;
+    font-size: 12px;
+    text-align:center;
+    bottom: -156vh;
+    right: 5%;
+  }
+  
+  .olivet {
+    position: absolute;
+    font-size: 12px;
+    text-align:center;
+    bottom: -93vh;
+    left: 64%;
+  }
+  
+  .maglink {
+    position: absolute;
+    font-size: 12px;
+    text-align: center;
+    bottom:-97vh;
+    left: 10%;
+  }
+
+  .trucking {
+    position: absolute;
+    font-size: 12px;
+    text-align: center;
+    bottom: -136.5vh;
+    right: 29%;
+  }
+
+  .galacia {
+    position: absolute;
+    font-size: 12px;
+    text-align: center;
+    bottom: -158vh;
+    left: 10%;
+  }
+  
+  .central {
+    position: absolute;
+    font-size: 12px;
+    text-align: center;
+    right: 29%;
+    bottom: -180vh;
+  }
+
+  .lookout {
+    position: absolute;
+    font-size: 12px;
+    text-align: center;
+    left: 68%;
+    bottom: -188vh;
+  }
+
+  .spicket {
+    position: absolute;
+    font-size: 12px;
+    text-align: center;
+    left: 10%;
+    bottom: -220vh;
+  }
+  
+                                 /*IM NOT GREAT*/
+  
+  #magazine {
+    position: relative; 
+    display: flex; 
+    height: 100vh;
+    width: 0vw;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .back {
+    position: relative;
+    font-size:16px;
+    text-align: center;
+   
+  }
+  
+  .blurb {
+    position: relative;
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  
+  .luci {
+    position: absolute;
+    left: 5%;
+    bottom: 15vh;
+  }
+  
+  .mixin {
+    position: absolute;
+    left: 30%;
+    bottom: 17vh;
+  }
+  
+  .paris {
+    position: absolute;
+    bottom: 15vh;
+    right: 5%;
+  }
+  
+  .cars {
+    position: absolute;
+    left: 30%;
+    bottom: -40vh;
+  }
+  
+  .snow {
+    position: absolute;
+    right: 5%;
+    bottom: -45vh;
+  }
+  
+  .cali {
+    position: absolute;
+    left: 5%;
+    bottom: -45vh;
+  }
+  
+  .crossing {
+    position: absolute;
+    left: 27.3%;
+    bottom: -98vh;
+    font-size: 12px;
+    text-align: left;
+  }
+
+                                                           /* film */
+  
+  #film {
+    position: relative; 
+  display: flex; 
+  height: 100vh;
+  width: 0vw;
+  margin: 0 auto;
+  text-align: center;
+  }
+  
+  .filmhead {
+   position: relative;
+  text-align: center;
+  font-size: 30px;
+  font-family: "mythos-std", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.indexF {
+  position: relative;
+  text-align: center;
+}
+
+.TeaParty {
+  position: absolute;
+  text-align: center;
+  font-size: 11px;
+  top: 20vh;
+  left: 5%;
+}
+
+.laurel1 {
+  position: absolute;
+  top: 19vh;
+  left: 50%
+
+}
+  
+.laurel2 {
+
+  position: absolute;
+  top: 19vh;
+  left: 70%;
+} 
+
+.laurel3 {
+  position: absolute;
+  top:41vh;
+  left: 60%;
+}
+
+.confront2 {
+  position: absolute;
+  text-align: center;
+  font-size: 11px;
+  top: 70%;
+  right: 57.4%;
+
+}
+
+                                                        /* contact */
+
+#contact {
+  position: relative; 
+  display: flex; 
+  height: 100vh;
+  width: 0vw;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+.indexC {
+  position: absolute;
+    text-align: center;
+    font-size: 15px;
+   top: 5vh;
+}
+
+.contactHead {
+  position: absolute;
+  text-align: center;
+  font-size: 30px;
+  font-family: "mythos-std", sans-serif;
+font-weight: 400;
+font-style: normal;
+top: 10vh;
+right: -12.5vw;
+}
+
+
+.email {
+  position: absolute;
+  text-align: center;
+  font-size: 20px;
+  top: 30vh;
+  right: -12.5vw;
+}
+
+.linkdin {
+  position: absolute;
+  text-align: center;
+  font-size: 20px;
+  top: 38vh;
+  left: -1.5vw;
+}
+
+.insta {
+  position: absolute;
+  text-align: center;
+  font-size: 20px;
+  top: 52vh;
+  left: -1.8vw;
+
+}
+
+.catgif{
+  position: absolute;
+  top: 65vh;
+  left: -7vw;
+
+
+}
+
+                                                        /* misc */
+
+#Misc{
+  position: relative; 
+  display: flex; 
+  height: 100vh;
+  width: 0vw;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.indexM {
+  position: absolute;
+  text-align: center;
+  font-size: 15px;
+ top: 5vh;
+  
+}
+
+.MiscHead {
+  position: absolute;
+  text-align: center;
+  font-size: 30px;
+  font-family: "mythos-std", sans-serif;
+font-weight: 400;
+font-style: normal;
+top: 10vh;
+right: -22vw;
+}
+
+.zine {
+  position: absolute;
+  text-align: center;
+  font-size: 15px;
+  top: 25vh;
+  right: 8vw;
+}
+
+            #FireZine {
+              position: relative; 
+              display: flex; 
+              height: 100vh;
+              width: 0vw;
+              margin: 0 auto;
+              text-align: center;
+            }
+
+            .ZineHead {
+            position: absolute;
+            text-align: center;
+            font-size: 30px;
+            font-family: "mythos-std", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+            top: 10vh;
+            right: -11.5vw;
+            }
+
+         
+
